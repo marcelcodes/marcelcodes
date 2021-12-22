@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Marcel
+- 🔢 Currently 25 years old
+-  💕 I’m in love with MERN
+- 🌱 Diving into TypeScript
