@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Marcel
-- 🔢 Currently 25 years old
--  💕 I’m in love with MERN
-- 🌱 Diving into TypeScript
+- 🌍 From 🇩🇪 lving in 🇪🇸
+- 🔢 Currently 28 years old
+-  💕 I’m in love with MERN and Python
+- 🌱 AI Enthusiast
