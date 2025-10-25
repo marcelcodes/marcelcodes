@@ -7,7 +7,7 @@ As a **Technical Writer** I turn complex IT topics into clear, actionable docume
 
 I am mainly creating documents and content for german government projects for the Federal Ministry of the Interior (BMI), the Federal Office of Administration (BVA), the Federal Ministry of Health (BMG), the Public Health Service (ÖGD), the Federal Ministry of Education and Research (BMBF), the Bavarian State Office for Health and Food Safety (LGL), state interior ministries, and municipal authorities.
 <details>
-<summary>👨‍💻 Learn more about experience</summary>
+<summary>👨‍💻 Learn more about my experience</summary>
 
 ### 💼 Professional Experience
 - Several years producing **technical documentation** and maintaining **knowledge bases** (process docs, FAQs, onboarding material).
