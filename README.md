@@ -47,17 +47,26 @@ I follow AI research closely and enjoy understanding models inside and out. My m
 
 <details>
 <summary>🛜 My Homelab</summary>
-  
+
+### Specs
 - Intel Alder lake N100
 - 16 GB DDR4 RAM
 - 512 GB NVMe
+
+### Running on
+- Proxmox VE
 </details>
 <details>
 <summary>🖥️ My PC</summary>
-  
+
+### Specs
 - Intel Core i9-14900KF @ 6 GHz
 - 128 GB DDR5 RAM @ 5600 MT/s
 - NVIDIA RTX 4080 SUPER 16 GB
 - Samsung 990 Pro NVMe 6 TB (2 TB + 4 TB)
+
+### Running on
+- Windows 11
+- Arch Linux with Hyprland
 </details>
 
