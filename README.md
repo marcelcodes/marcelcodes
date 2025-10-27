@@ -15,7 +15,7 @@ I am mainly creating documents and content for german government projects for th
 - Hands-on in **IT-administration and -operation**, planned and executed server migrations for over 600 employees at once, provided scripting support and runbook automation
 - Practical experience with **self-hosted infrastructure**, especially Proxmox, Docker, Portainer, VPS hosting and troubleshooting containerised services
 - Strong focus on **implementable**, ops-aware docs that reduce onboarding time and prevent production errors
-- Currently working full time as a Technical Writer
+- Currently working full time as a Technical Writer for multiple german government projects
 
 ### 🎓 Education
 - Professional degree as a Media Engineer/Technician
