@@ -38,7 +38,7 @@ I follow AI research closely and enjoy understanding models inside and out. My m
   - leveraging a few Models I evaluate and deploy locally, mainly:
     - Mistral-7B as a high-throughput generator for draft generation and interactive response synthesis
     - Llama-3 (8B and quantized 13B variants) for instruction-following and medium-complexity reasoning / few-shot adaptation
-    - Llama-4 Scout (quantized 17B active / MoE) for specialized long-context and multimodal verifier and deep reasoning expert (quantized + CPU-offload for 16GB deployments).
+    - Llama-4 Scout (quantized 17B active / MoE) for specialized long-context and multimodal verifier and deep reasoning expert
     - gpt-oss-20B for deep multi-step reasoning and as a critic/verifier for fact-checking and chain-of-thought verification
     - MPT-7B / Vicuna-7B for concise summarization, style adaptation and response refinement
     - sentence-transformers for dense embeddings and for semantic retrieval, similarity search and vector-DB indexing
